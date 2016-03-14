@@ -13,7 +13,7 @@ cid:<input type="text" name="clientid">
 uid:<input type="text" name="unitid">
 val:<input type="text" name="tempval">
 <input type="submit" value="insert">
-
+sdhfkfrtjhto
 
 </form>
 

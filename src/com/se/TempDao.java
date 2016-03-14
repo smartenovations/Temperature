@@ -5,7 +5,7 @@ import java.sql.PreparedStatement;
 import java.sql.Statement;
 import java.util.ArrayList;
 
-import com.mysql.jdbc.ResultSet;
+
 
 public class TempDao {
 	
